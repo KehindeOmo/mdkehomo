@@ -4,6 +4,6 @@
 
 ## Please click the links to visit each page and learn more about **muah** :)
 
--[involvement](okay)
--[favs](okayv2)
--[fun facts](okayv3)
+-[involvement](involvement.md)
+-[favs](favs.md)
+-[fun facts](funfacts.md)
