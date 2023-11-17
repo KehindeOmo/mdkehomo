@@ -5,3 +5,8 @@
 * I'm also an RA
 * I am member in THRIVE 
  > I am also a member of other orgs like NSBE
+
+-[involvement](involvement.md)
+-[favs](favs.md)
+-[fun facts](funfacts.md)
+-[main page](readme.md)
