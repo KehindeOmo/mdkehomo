@@ -7,3 +7,7 @@
 - My Major is *Information Technology*
 
 - TikTok is my favorite social media app
+-[involvement](involvement.md)
+-[favs](favs.md)
+-[fun facts](funfacts.md)
+-[main page](readme.md)
